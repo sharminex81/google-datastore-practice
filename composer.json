@@ -1,0 +1,12 @@
+{
+    "name": "sharminex81/cloud-datastore-practice",
+    "authors": [
+        {
+            "name": "sharminex81",
+            "email": "mimetyshanta@gmail.com"
+        }
+    ],
+    "require": {
+        "tomwalder/php-gds": "^3.0"
+    }
+}
